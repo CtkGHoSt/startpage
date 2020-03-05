@@ -3,119 +3,119 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ctkghost.github.io/2014/09/creating-a-new-theme/</loc>
+    <loc>https://ctkghost.github.io/startpage/2014/09/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/2014/03/migrate-to-hugo-from-jekyll/</loc>
+    <loc>https://ctkghost.github.io/startpage/2014/03/migrate-to-hugo-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/post/</loc>
+    <loc>https://ctkghost.github.io/startpage/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/about/</loc>
+    <loc>https://ctkghost.github.io/startpage/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/</loc>
+    <loc>https://ctkghost.github.io/startpage/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/2014/04/hugo-template-primer/</loc>
+    <loc>https://ctkghost.github.io/startpage/2014/04/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/categories/</loc>
+    <loc>https://ctkghost.github.io/startpage/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/categories/development/</loc>
+    <loc>https://ctkghost.github.io/startpage/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/tags/development/</loc>
+    <loc>https://ctkghost.github.io/startpage/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/2014/04/getting-started-with-hugo/</loc>
+    <loc>https://ctkghost.github.io/startpage/2014/04/getting-started-with-hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/tags/go/</loc>
+    <loc>https://ctkghost.github.io/startpage/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/tags/golang/</loc>
+    <loc>https://ctkghost.github.io/startpage/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/categories/golang/</loc>
+    <loc>https://ctkghost.github.io/startpage/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/tags/hugo/</loc>
+    <loc>https://ctkghost.github.io/startpage/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/tags/</loc>
+    <loc>https://ctkghost.github.io/startpage/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/tags/templates/</loc>
+    <loc>https://ctkghost.github.io/startpage/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://ctkghost.github.io/tags/themes/</loc>
+    <loc>https://ctkghost.github.io/startpage/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
